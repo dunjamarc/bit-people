@@ -30,3 +30,7 @@ h1, footer p {
   background-color: #ffebee !important;
 }
 
+.material-icons {
+  font-size: 14px;
+  margin-right: 5px;
+}
